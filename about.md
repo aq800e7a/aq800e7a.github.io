@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-sharms, she/her, 19 \n
+sharms, she/her, 19\
 CS @ GT
 
 ## Things I Like
