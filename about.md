@@ -9,9 +9,9 @@ CS @ GT
 
 ## Things I Like
 
-* CS (Theory, Foundations, Data Science, etc.)
-* Mathematics (Honestly, TBD. Currently working through Hammack's Book of Proof.)
-* Neuroscience (Applications of Psychology, Cognitive and Computational Neuro, etc.)
+* CS (Theory, Data Science, etc.)
+* Mathematics (Honestly, specifics are TBD. Currently working through Hammack's Book of Proof.)
+* Neuroscience (Psychology, Cognitive and Computational spaces, etc.)
 * Philosophy
 * Music
 * Art
