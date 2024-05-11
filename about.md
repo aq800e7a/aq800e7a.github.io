@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+sharms, she/her, 19
+CS @ GT
 
-### More Information
+## Things I Like
 
-A place to include any other types of information that you'd like to include about yourself.
+* CS (Theory, Foundations, Data Science, etc.)
+* Mathematics (Honestly, TBD. Currently working through Hammack's Book of Proof.)
+* Neuroscience (Applications of Psychology, Cognitive and Computational Neuro, etc.)
+* Philosophy
+* Music
+* Art
 
-### Contact me
+## Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aq800e7a@gmail.com](mailto:aq800e7a@gmail.com)
