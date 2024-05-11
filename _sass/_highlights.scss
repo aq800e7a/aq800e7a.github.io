@@ -11,10 +11,7 @@
 }
 
 code {
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://spratt.github.io/Computer-Modern/cmunss.otf');
-  }
+  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
