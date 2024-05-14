@@ -8,7 +8,7 @@ Earlier today, my boyfriend and I discussed a question he was asked by a friend,
 
 My thought process began here: consider the set $$\mathcal{A} = \{ \mathbf{N}, \mathcal{P} \{ \mathbf{N} \}, \mathcal{P} \{ \mathcal{P} \{ \mathbf{N} \} \},... \}$$ which contains a countable number of infinities, each of a distinct size. Subsequently, we take $$\mathcal{P}\{A\}$$, which contains a uncountably infinite number of sets that contain varying sizes of infinity, and generate infinities that distinctly represent each element $$n$$ of $$\mathcal{P}\{A\}$$ like so:
 
-Given element $$n = \{m_1, m_2,...m_l\}$$ where the cardinality of some $$m \in n$$ is a disparate sized infinity, we construct a new infinity of size dsjjsfjjdskjkldsjkfljsdklfljds that represents the $$\inf$$-asignment of $$n \in \mathcal{P}\{A\}$$.
+Given element $$n = \{m_1, m_2,...m_l\}$$ where the cardinality of some $$m \in n$$ is a disparate sized infinity, we construct a new infinity of size thisisatest that represents the $$\inf$$-asignment of $$n \in \mathcal{P}\{A\}$$.
 
 Now, we have an uncountably infinite set $`\mathcal{P}\{A\}`$ that contains elements that have each been designated a different sized infinity, subsequently showing that there are at least an uncountable number of infinities.
 
