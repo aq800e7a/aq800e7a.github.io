@@ -83,8 +83,8 @@ plugins:
   
 # Exclude these files from your production _site
 exclude:
-  - gemfile
-  - gemfile.lock
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
